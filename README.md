@@ -13,3 +13,7 @@ of development by easing common tasks used in many projects, such as:
 ## Code of Conduct
 In order to ensure that everyone understand the subject, make sure everyone
 complete every `Task Practice`.
+
+## License
+The IPE TP01 is open-sourced software licensed under the [MIT
+license](https://opensource.org/licenses/MIT).
