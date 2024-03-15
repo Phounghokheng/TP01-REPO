@@ -9,3 +9,7 @@ of development by easing common tasks used in many projects, such as:
 - Code versioning for keeping changes under control.
 - Code ownership by identifying who make any part of the code.
 - Task management for dividing tasks for each team member.
+
+## Code of Conduct
+In order to ensure that everyone understand the subject, make sure everyone
+complete every `Task Practice`.
