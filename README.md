@@ -8,3 +8,4 @@ of development by easing common tasks used in many projects, such as:
 - Code sharing for group project development.
 - Code versioning for keeping changes under control.
 - Code ownership by identifying who make any part of the code.
+- Task management for dividing tasks for each team member.
